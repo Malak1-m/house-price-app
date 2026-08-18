@@ -5,3 +5,4 @@ __pycache__/
 venv/
 *.pyc
 dataset.csv
+house_price.pkl
